@@ -1,0 +1,18 @@
+{
+  "docs": [
+    {"id": "gym", "text": "Gym routine: squats, deadlifts and bench press three times a week. Rest 90 seconds between sets."},
+    {"id": "budget", "text": "Monthly budget: rent first, then groceries, then save 20% of each paycheck into the emergency fund."},
+    {"id": "habits", "text": "Atomic Habits notes: make the cue obvious, the craving attractive, the response easy, the reward satisfying."},
+    {"id": "oaxaca", "text": "Oaxaca trip: hotel downtown, try mezcal and tlayudas, visit Monte Albán early to avoid the heat."},
+    {"id": "sleep", "text": "Sleep log takeaways: no screens after 22:00, same wake-up time on weekends, coffee only before noon."},
+    {"id": "car", "text": "Car maintenance: oil change every 10,000 km, rotate tires every 8,000 km, check brake pads yearly."}
+  ],
+  "questions": [
+    {"q": "how much of my salary should I put aside", "relevant": ["budget"]},
+    {"q": "what lifts do I do at the gym", "relevant": ["gym"]},
+    {"q": "tips to fall asleep better", "relevant": ["sleep"]},
+    {"q": "when do I need new oil for the car", "relevant": ["car"]},
+    {"q": "what to eat in Oaxaca", "relevant": ["oaxaca"]},
+    {"q": "how to build a new routine that sticks", "relevant": ["habits"]}
+  ]
+}

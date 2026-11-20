@@ -1,0 +1,9 @@
+{
+  "name": "maestria-ia-portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test aplicaciones/categorizador-recibos/ aplicaciones/evaluacion-recuperacion/"
+  },
+  "engines": { "node": ">=23.6" }
+}
