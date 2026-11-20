@@ -4,6 +4,19 @@ Lo que aprendo en la Maestría en Inteligencia Artificial (UNIR, 2025–) aplica
 
 Aquí solo hay trabajo propio. El temario, las presentaciones y los enunciados de la universidad no se publican.
 
+## Un proyecto por materia
+
+| Materia | Proyecto | Qué hace |
+| --- | --- | --- |
+| Aprendizaje Automático | [aplicaciones/](aplicaciones/) (este repositorio) | Detección de anomalías, clasificación de recibos, estimador de impresión 3D |
+| Procesamiento de Lenguaje Natural | [aplicaciones/](aplicaciones/) (este repositorio) | Legibilidad de guiones, evaluación de recuperación (RAG) |
+| Razonamiento y Planificación Automática | [maestria-ia-planificador-strips](https://github.com/Breif7/maestria-ia-planificador-strips) | STRIPS con BFS, A* + h_max y voraz + h_add |
+| Sistemas Cognitivos Artificiales | [maestria-ia-red-neuronal-numpy](https://github.com/Breif7/maestria-ia-red-neuronal-numpy) | Perceptrón multicapa desde cero, retropropagación verificada numéricamente |
+| Investigación en IA | [maestria-ia-revisor-bibtex](https://github.com/Breif7/maestria-ia-revisor-bibtex) | Revisa un `.tex` contra su `.bib` antes de entregar |
+| IA y Computación Cognitiva | [maestria-ia-repaso-actr](https://github.com/Breif7/maestria-ia-repaso-actr) | Repaso espaciado con el modelo de memoria de ACT-R |
+| Metodología de Diseño y Gestión de Proyectos | [maestria-ia-ruta-critica](https://github.com/Breif7/maestria-ia-ruta-critica) | Ruta crítica, PERT, Monte Carlo y valor ganado |
+| AWS Machine Learning Foundations | [maestria-ia-pronostico-backtest](https://github.com/Breif7/maestria-ia-pronostico-backtest) | Pronóstico con backtest, cuantiles y wQL |
+
 ## Aplicaciones
 
 | Carpeta | Problema | Método | Materia · tema | Proyecto de origen |
