@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node --test aplicaciones/categorizador-recibos/ aplicaciones/evaluacion-recuperacion/"
+    "test": "node --test \"aplicaciones/**/*.test.ts\""
   },
   "engines": { "node": ">=23.6" }
 }
